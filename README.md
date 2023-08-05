@@ -1,15 +1,15 @@
-# nvim configuration
+# nvim-config
 
-This is my personal nvim configuration. It is not meant to be used by others, but feel free to do so.
+This repository contains my personal Neovim (nvim) configuration. While it is primarily tailored to my needs, you are welcome to use it and adapt it for your own setup.
 
 ## Installation
 
-1. Clone this repository into your `.config` directory:
+Clone this repository into your Neovim configuration directory:
 
-```
+```bash
 git clone https://github.com/lpsouza/nvim-config ~/.config/nvim/
 ```
 
-## Thanks
+## Credits
 
-This respository is inspired by ideias from @josean-dev on you repository [dev-environment-files](https://github.com/josean-dev/dev-environment-files).
+This configuration is inspired by ideas from \@[josean-dev](https://github.com/josean-dev) and their repository [dev-environment-files](https://github.com/josean-dev/dev-environment-files). I am grateful for their work and insights.
